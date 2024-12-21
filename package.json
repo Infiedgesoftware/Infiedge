@@ -1,7 +1,7 @@
 {
   "name": "explore",
   "version": "0.1.0",
-  "homepage": "https://Infiedgesoftware.github.io/Infiedge",
+  "homepage": "https://infiedgesoftware.github.io/Infiedge",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
