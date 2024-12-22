@@ -169,7 +169,7 @@ export default function Footer() {
               <li className="footer-item">
                 <ion-icon name="location" aria-hidden="true"></ion-icon>
                 <address className="contact-link address">
-                  123 Innovation Drive, <br /> Tech City, USA
+                Prahaladapuram, Visakhapatnam -530027
                 </address>
               </li>
               <li className="footer-item">
