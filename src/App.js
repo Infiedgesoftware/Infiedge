@@ -9,6 +9,7 @@ import Footer from './Components/Footer';
 import Faq from './Components/Faq';
 import Team from './Components/Team';
 import './Components/assets/css/style.css'
+import TopUpButton from './Components/TopUpButton';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Faq/>
       <Contact />
       <Footer />
+      <TopUpButton/>
     </div>
   );
 }
