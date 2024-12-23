@@ -17,11 +17,11 @@ const Navbar = () => {
   }, []);
 
   // Determine screen width for conditional rendering
-  const [isMobileView, setMobileView] = useState(window.innerWidth <= 768);
+  const [isMobileView, setMobileView] = useState(window.innerWidth <= 1039);
 
   useEffect(() => {
     const handleResize = () => {
-      setMobileView(window.innerWidth <= 768);
+      setMobileView(window.innerWidth <= 1039);
     };
 
     window.addEventListener("resize", handleResize);
