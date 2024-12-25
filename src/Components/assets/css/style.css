@@ -637,7 +637,7 @@ body {
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
-  font-size: 1rem;
+  font-size: relative-size;
   color: #333;
 }
 
