@@ -13,8 +13,8 @@ export default function Team() {
     { id: 2, name: "SRI VENKAT BORA", designation: "CO- Founder, CMO", photo: team_2 },
     { id: 3, name: "JEEVAN SAI NABBA", designation: "COO (Chief operating officer)", photo: team_3 },
     { id: 4, name: "GRANDHI HEMANTH", designation: "CFO (chief finical officer)", photo: team_4 },
-    // { id: 5, name: "Mamindla Vamshi", designation: "FULL STACK DEVELOPER", photo: team_5 },
-    // { id: 6, name: "SRIRAMULA HARISH", designation: "ANDROID DEVELOPER", photo: team_7 },
+    { id: 5, name: "Mamindla Vamshi", designation: "FULL STACK DEVELOPER", photo: team_5 },
+    { id: 6, name: "SRIRAMULA HARISH", designation: "FULL STACK DEVELOPER", photo: team_7 },
     { id: 7, name: "SHINAGAM KUMAR SWAMY", designation: "CTO (Chief Technical Officer)", photo: team_6 },
   ];
 
