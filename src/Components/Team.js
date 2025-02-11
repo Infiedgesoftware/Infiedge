@@ -3,9 +3,7 @@ import team_1 from './assets/images/team-1.jpg';
 import team_2 from './assets/images/team-2.jpg';
 import team_3 from './assets/images/team-3.jpg';
 import team_4 from './assets/images/team-4.jpg';
-import team_5 from './assets/images/team-5.jpg';
 import team_6 from './assets/images/team-6.jpg';
-import team_7 from './assets/images/team-7.jpg';
 import team_8 from './assets/images/Team-8.jpg';
 import team_9 from './assets/images/Team-9.jpg';
 import team_10 from './assets/images/Team-10.jpg';
@@ -16,8 +14,6 @@ export default function Team() {
     { id: 2, name: "SRI VENKAT BORA", designation: "CO- Founder, CMO", photo: team_2 },
     { id: 3, name: "JEEVAN SAI NABBA", designation: "COO (Chief operating officer)", photo: team_3 },
     { id: 4, name: "GRANDHI HEMANTH", designation: "CFO (chief finical officer)", photo: team_4 },
-    { id: 5, name: "Mamindla Vamshi", designation: "FULL STACK DEVELOPER", photo: team_5 },
-    { id: 6, name: "SRIRAMULA HARISH", designation: "FULL STACK DEVELOPER", photo: team_7 },
     { id: 7, name: "SHINAGAM KUMAR SWAMY", designation: "CTO (Chief Technical Officer)", photo: team_6 },
     { id: 8, name: "GULLAPALLI JASWANTHCHOWDARY", designation: "Frontend Developer ", photo: team_8 },
     { id: 9, name: "VAMSI KRISHNA DANTINALU", designation: "Data Analyst", photo: team_9 },
